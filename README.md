@@ -14,6 +14,15 @@
 
 ---
 
+
+⚠️ **Notice**
+This GitHub repository is **not the main source**
+
+The main repository is hosted on [GitLab Mines Paris] (https://git.sophia.minesparis.psl.eu/TriboAILab/wear_dlc_deep-learning).  
+
+Please refer to the GitLab repository for the latest updates, issues, and contributions.  
+
+---
 ## Overview
 
 This repository provides the main computational workflows associated with the DLC wear-prediction study:
