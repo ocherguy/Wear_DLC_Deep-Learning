@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+results/*
+!results/.gitkeep
+data/*.xlsx
+data/*.xls
+data/*.csv
+
+!data/DLC_database_public.xlsx
