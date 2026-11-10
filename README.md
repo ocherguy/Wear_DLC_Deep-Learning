@@ -232,7 +232,7 @@ If you use this repository or the wear-prediction methodology in academic work, 
 >
 > *A Deep Learning framework with multi-level physical integration for wear prediction of DLC coatings*.
 >
-> [Publication details and DOI will be added once available.](https://doi.org/10.1016/j.wear.2026.207141)
+> [https://doi.org/10.1016/j.wear.2026.207141](https://doi.org/10.1016/j.wear.2026.207141)
 > [Read online (Wear)](https://www.sciencedirect.com/science/article/abs/pii/S0043164826006320)
 
 ### Related work
