@@ -228,11 +228,14 @@ Accordingly, numerical scores obtained from this repository should not be interp
 
 If you use this repository or the wear-prediction methodology in academic work, please cite the associated article:
 
-> Cherguy, O., Chmielowski, R., Hachem, E., & Lahouij, I.
+> Cherguy, O., Chmielowski, R., Hachem, E., & Lahouij, I. (2026).
 >
 > *A Deep Learning framework with multi-level physical integration for wear prediction of DLC coatings*.
 >
+> *Wear*, **608**, Article 207141,(Special Issue: Informatics of Wear)
+>
 > [https://doi.org/10.1016/j.wear.2026.207141](https://doi.org/10.1016/j.wear.2026.207141)
+> 
 > [Read online (Wear)](https://www.sciencedirect.com/science/article/abs/pii/S0043164826006320)
 
 ### Related work
