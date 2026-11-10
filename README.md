@@ -18,7 +18,7 @@
 ⚠️ **Notice**
 This GitHub repository is **not the main source**
 
-The main repository is hosted on [GitLab Mines Paris] (https://git.sophia.minesparis.psl.eu/TriboAILab/wear_dlc_deep-learning).  
+The main repository is hosted on [GitLab Mines Paris] (https://git.sophia.minesparis.psl.eu/triboailabpublic/wear_dlc_deep-learning/).  
 
 Please refer to the GitLab repository for the latest updates, issues, and contributions.  
 
@@ -232,7 +232,8 @@ If you use this repository or the wear-prediction methodology in academic work, 
 >
 > *A Deep Learning framework with multi-level physical integration for wear prediction of DLC coatings*.
 >
-> Publication details and DOI will be added once available.
+> [Publication details and DOI will be added once available.](https://doi.org/10.1016/j.wear.2026.207141)
+> [Read online (Wear)](https://www.sciencedirect.com/science/article/abs/pii/S0043164826006320)
 
 ### Related work
 
